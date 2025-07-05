@@ -21,7 +21,7 @@ The primary goals of this analysis are:
 3. The notebook will:
    - Load and clean the dataset
    - Recode categorical variables
-   - Conduct statistical tests (chi-square)
+   - Conduct statistical tests (chi-square and correlation)
    - Generate visualizations
 
 ## Short Summary of Results
@@ -32,6 +32,4 @@ Age differences were observed: middle-aged individuals showed greater variabilit
 These findings highlight the importance of targeted engagement strategies and can inform faith-based organizations and community planners in designing inclusive programs that address the varying religious behaviors across different demographic groups.
 
 ## Dependencies
-Make sure the following Python libraries are installed:
-```bash
-pip install pandas numpy matplotlib seaborn scipy
+Make sure the following Python libraries are installed: pandas numpy matplotlib seaborn scipy
