@@ -22,7 +22,7 @@ The primary goals of this analysis are:
    - Load and clean the dataset
    - Recode categorical variables
    - Conduct statistical tests (chi-square and correlation)
-   - Generate visualizations
+   - Generate visualizations (countplot, heatmap, boxplot)
 
 ## Short Summary of Results
 Religious affiliation and evangelical identity were found to be significantly associated with religious service attendance, while gender showed no significant effect.
